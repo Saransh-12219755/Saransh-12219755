@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Saransh-12219755
+- 👋 Hi, I’m @Saransh
 - 👀 I’m interested in Python, Java, C++ and C
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning Java and Web Development
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
